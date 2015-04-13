@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "庄子 知北游"
+title: "知北游"
 data:   2015-04-12
 categories: jekyll update
 language: chinese
