@@ -3,6 +3,7 @@ layout: post
 title:  "Speech Quotes"
 data:   2015-04-26
 categories: jekyll update
+comments: True
 language: English
 ---
 

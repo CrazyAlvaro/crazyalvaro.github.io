@@ -3,6 +3,7 @@ layout: post
 title: "知北游"
 data:   2015-04-12
 categories: jekyll update
+comments: True
 language: Chinese
 ---
 >摘自 《庄子》外篇 知北游 一二
