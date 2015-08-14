@@ -3,6 +3,7 @@ layout: post
 title: "知北游"
 data:   2015-04-12
 categories: jekyll update
+permalink: 知北游
 comments: True
 language: Chinese
 ---

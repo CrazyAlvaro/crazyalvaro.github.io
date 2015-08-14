@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Speech Quotes"
+title:  "Talks Digest: From Bloomberg and Winfrey"
 data:   2015-04-26
 categories: jekyll update
+permalink: Talks-Digest
 comments: True
 language: English
 ---
