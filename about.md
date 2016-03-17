@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer currently working at Viralheat (Acquired by Cision Inc), San Mateo, CA.
+In the end, it's not the years in your life that count. It's the life in your years.
+    -- Abraham Lincoln
 
-Email: yechenhuang at google's email account
+
+Reach out to me at  yechenhuang at gmail.com
+Made in China
