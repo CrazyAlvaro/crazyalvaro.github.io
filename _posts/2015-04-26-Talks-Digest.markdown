@@ -11,7 +11,7 @@ language: English
 Here's are some quotes that I came across recently that I strongly agree with and would like to
 write them down and share with other people.
 
-###[Bloomberg on How to Start a Business and Make Money](https://www.youtube.com/watch?v=FmPRD8__10w)###
+### [Bloomberg on How to Start a Business and Make Money](https://www.youtube.com/watch?v=FmPRD8__10w) ###
 
 >Once finished, gone, life continues. "You can't sit there, should have would have
 >could have is not a particular useful thing to spend your time doing, it will
@@ -26,7 +26,7 @@ write them down and share with other people.
 
 >Street smarts and common sense are every important.
 
-###[Winfrey's Commencement address](http://news.harvard.edu/gazette/story/2013/05/winfreys-commencement-address/)###
+### [Winfrey's Commencement address](http://news.harvard.edu/gazette/story/2013/05/winfreys-commencement-address/) ###
 
 >**There is no such thing as failure. Failure is just life trying to move us in another
 >direction.**
